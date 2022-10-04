@@ -26,3 +26,8 @@ Increase the number of drivers in Rural areas
 Reduce the fares in Rural areas
 Increase the fares in Urban areas so the earnings per driver increase.
 
+please refer to the following images aw a summary:
+https://github.com/AreejFatima95/PyBer_Analysis/blob/44402f6e608ff25c871a2ac78d5a902965016921/PyBer_Analysis/Resources/Data.png
+https://github.com/AreejFatima95/PyBer_Analysis/blob/44402f6e608ff25c871a2ac78d5a902965016921/PyBer_Analysis/Resources/Graph-Weekly%20Rides%20by%20city%20type.png
+https://github.com/AreejFatima95/PyBer_Analysis/blob/44402f6e608ff25c871a2ac78d5a902965016921/PyBer_Analysis/Resources/Total%20fare%20per%20day%20by%20city%20type..png
+
